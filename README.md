@@ -10,7 +10,7 @@ Welcome to this repository for my September 2024 MicroThisMicroThat article wher
 
 
 
-![image](https://github.com/gregwa1953/MTMT-209/assets/back.png)
+![image](assets/back.png)
 
 
 
@@ -22,4 +22,4 @@ While I'm still uploading files to this repository, one of the things that you w
 
 
 
-![image](https://github.com/gregwa1953/MTMT-209/assets/Greg_Weather.jpg)
+![image](assets/Greg_Weather.jpg)
